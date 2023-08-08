@@ -1,3 +1,5 @@
+module Product where
+
 prod :: [Int] -> Int
 
 prod [x] = x
